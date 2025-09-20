@@ -1,6 +1,6 @@
 # go-now
 
-Real-time dashboard that notifies you when it’s the perfect time to leave for your commute—powered by Kafka, Tinybird, and live traffic insights.
+Real-time dashboard that notifies you when it’s the perfect time to leave for your commute; powered by Kafka, Tinybird, and live traffic insights.
 
 ## Features
 - Live ETA tracking between office and home
